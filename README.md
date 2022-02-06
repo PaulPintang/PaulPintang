@@ -44,7 +44,9 @@
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
 
----
+<br />
+
+## [![PaulPintang GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulPintang)](https://github.com/PaulPintang/github-readme-stats)
 
 [website]: http://impaul.netlify.app
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
