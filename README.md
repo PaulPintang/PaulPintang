@@ -6,7 +6,7 @@
 
 <!-- ## I'm a Web Developer!! -->
 
-- 🔭 My Web Portfolio: [PaulPintang][website]!
+- 🔭 My Web Portfolio: [PaulPintang][website]
 - 🌱 I’m currently learning React.JS 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: learn more technologies!
@@ -29,11 +29,18 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="MYSQL" width="26px" src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" />
+<img align="left" alt="MYSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
+
+### Projects:
+
+- Covid-19 Tracker Website: [link][covidtracker]
+- Fylo Website | Landing Page(frontendmentor.io): [link][fylo]
+- EasyBank Website | Landing Page(frontendmentor.io): [link][easybank]
+<!-- - Covid-19 Tracker Website: [link][covidtracker] -->
 
 ---
 
@@ -41,3 +48,9 @@
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
 [facebook]: https://web.facebook.com/pauljustin.pintang
 [messenger]: https://m.me/pauljustin.pintang
+
+<!-- Projects -->
+
+[covidtracker]: https://paulpintang.github.io/Covid-19-Tracker-App/
+[fylo]: https://festive-goldberg-678aaa.netlify.app/
+[easybank]: https://sharp-heyrovsky-44e00e.netlify.app/
