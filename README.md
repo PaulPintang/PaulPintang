@@ -44,6 +44,7 @@
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
 
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulPintang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://impaul.netlify.app
