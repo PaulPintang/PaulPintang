@@ -7,7 +7,7 @@
 <!-- ## I'm a Web Developer!! -->
 
 - 🔭 My Web Portfolio: [PaulPintang][website]
-- 🌱 I’m currently learning React.JS 🤣
+- 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: learn more technologies!
 
