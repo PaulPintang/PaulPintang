@@ -37,10 +37,12 @@
 
 ### Projects:
 
-- Covid-19 Tracker Website: [link][covidtracker]
-- Fylo Website | Landing Page(frontendmentor.io): [link][fylo]
-- EasyBank Website | Landing Page(frontendmentor.io): [link][easybank]
-<!-- - Covid-19 Tracker Website: [link][covidtracker] -->
+- Covid-19 Tracker Website: [Link][covidtracker]
+- Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
+- EasyBank Website | Landing Page(frontendmentor.io): [Link][easybank]
+- Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
+- Insure Website | Landing Page(frontendmentor.io): [Link][insure]
+- loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
 
 ---
 
@@ -54,3 +56,6 @@
 [covidtracker]: https://paulpintang.github.io/Covid-19-Tracker-App/
 [fylo]: https://festive-goldberg-678aaa.netlify.app/
 [easybank]: https://sharp-heyrovsky-44e00e.netlify.app/
+[huddle]: https://hudddleee-landing-page.netlify.app/
+[insure]: https://festive-jennings-234480.netlify.app/
+[loopstudios]: https://friendly-joliot-d759bc.netlify.app/
