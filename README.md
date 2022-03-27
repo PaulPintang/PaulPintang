@@ -47,7 +47,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulPintang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[website]: http://impaul.netlify.app
+[website]: http://paulpintang.netlify.app
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
 [facebook]: https://web.facebook.com/pauljustin.pintang
 [messenger]: https://m.me/pauljustin.pintang
