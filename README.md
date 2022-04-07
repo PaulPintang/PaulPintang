@@ -8,7 +8,7 @@
 
 - 🔭 My Web Portfolio: [PaulPintang][website]
 - 🌱 I’m currently learning React.Js
-- 🥅 2022 Goals: learn more technologies!
+- 🥅 2022 Goals: FOCUS!
 
 ### Connect with me:
 
