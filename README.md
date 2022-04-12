@@ -7,7 +7,7 @@
 <!-- ## I'm a Web Developer!! -->
 
 - 🔭 My Web Portfolio: [PaulPintang][website]
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning React.Js (target tech stack: MERN)
 - 🥅 2022 Goals: focus more, stay motivated, and just continue learning!
 
 ### Connect with me:
