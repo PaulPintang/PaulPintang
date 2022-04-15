@@ -36,7 +36,7 @@
 
 ### Projects:
 
-- Covid-19 Tracker Website: [Link][covidtracker]
+- Covid-19 Tracker Website: [V1][covidtracker] [V2][covidtrackerV2]
 - Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
 - EasyBank Website | Landing Page(frontendmentor.io): [Link][easybank]
 - Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
@@ -55,6 +55,7 @@
 <!-- Projects -->
 
 [covidtracker]: https://paulpintang.github.io/Covid-19-Tracker-App/
+[covidtrackerv2]: https://pincovid19-tracker-v2.netlify.app/
 [fylo]: https://festive-goldberg-678aaa.netlify.app/
 [easybank]: https://sharp-heyrovsky-44e00e.netlify.app/
 [huddle]: https://hudddleee-landing-page.netlify.app/
