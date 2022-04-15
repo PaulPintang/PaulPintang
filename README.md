@@ -36,7 +36,7 @@
 
 ### Projects:
 
-- Covid-19 Tracker Website: [V1][covidtracker] [V2][covidtrackerV2]
+- Covid-19 Tracker Website: [V1][covidtracker] | [V2][covidtrackerV2]
 - Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
 - EasyBank Website | Landing Page(frontendmentor.io): [Link][easybank]
 - Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
