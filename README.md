@@ -1,11 +1,5 @@
 ### Hi there, I'm Paul 👋
 
-<!--
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
-<!-- ## I'm a Web Developer!! -->
-
 - 🔭 My Web Portfolio: [PaulPintang][website]
 - 🌱 I’m currently learning React.Js (target tech stack: MERN)
 - 🥅 2022 Goals: focus more, stay motivated, and just continue learning!
@@ -20,7 +14,6 @@
 <br />
 
 ### Languages and Tools:
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -28,11 +21,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/netlify-ffca28?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-<br />
 
 ### Projects:
 
@@ -43,13 +36,15 @@
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
 
+
+
+
 [website]: http://paulpintang.netlify.app
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
 [facebook]: https://web.facebook.com/pauljustin.pintang
 [messenger]: https://m.me/pauljustin.pintang
 
 <!-- Projects -->
-
 [covidtracker]: https://paulpintang.github.io/Covid-19-Tracker-App/
 [covidtrackerv2]: https://pincovid19-tracker-v2.netlify.app/
 [fylo]: https://festive-goldberg-678aaa.netlify.app/
