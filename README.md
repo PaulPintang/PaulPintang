@@ -20,9 +20,10 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mantine-20232A?style=for-the-badge&logo=mantine&logoColor=61DAFB" alt="Mantine" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/netlify-ffca28?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/netlify-36A9B4?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
