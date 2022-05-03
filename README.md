@@ -1,3 +1,5 @@
+![Header](/banner-github.png)
+
 ### Hi there, I'm Paul 👋
 
 - 🔭 My Web Portfolio: [PaulPintang][website]
@@ -14,6 +16,7 @@
 <br />
 
 ### Languages and Tools:
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -30,15 +33,12 @@
 
 ### Projects:
 
-- Covid-19 Tracker Website: [Version1][covidtracker] | [Version2][covidtrackerV2]
+- Covid-19 Tracker Website: [Version1][covidtracker] | [Version2][covidtrackerv2]
 - Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
 - EasyBank Website | Landing Page(frontendmentor.io): [Link][easybank]
 - Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
-
-
-
 
 [website]: http://paulpintang.netlify.app
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
@@ -46,6 +46,7 @@
 [messenger]: https://m.me/pauljustin.pintang
 
 <!-- Projects -->
+
 [covidtracker]: https://paulpintang.github.io/Covid-19-Tracker-App/
 [covidtrackerv2]: https://pincovid19-tracker-v2.netlify.app/
 [fylo]: https://festive-goldberg-678aaa.netlify.app/
