@@ -27,14 +27,10 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
-<br />
 <br />
 
 ### Projects:
@@ -45,10 +41,6 @@
 - Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
-
-<!-- <br /> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulPintang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: http://paulpintang.netlify.app
 [gmail]: https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSBmlnSzdZvvqJFTGmvkLQrtwwqqkDRqdcstbDNQnqdtxvWpGStLHGsVbhGZcLlpLwHFMmXq
