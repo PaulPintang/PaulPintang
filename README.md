@@ -1,7 +1,5 @@
 ![Header](/banner-github.png)
 
-### Hi there, I'm Paul 👋
-
 - 🔭 My Web Portfolio: [PaulPintang][website]
 - 🌱 I’m currently learning React.Js (target tech stack: MERN)
 - 🥅 2022 Goals: focus more, stay motivated, and just continue learning!
