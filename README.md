@@ -37,7 +37,7 @@
 
 ### FullStack Projects (PHP/MySql)
 
-- OJT Record Management Syste: [Link][orm]
+- OJT Record Management Syste: [Link][rms]
 - Event Management System: [Link][ems]
 - Attendance Monitoring Syste: [Link][ams]
 
