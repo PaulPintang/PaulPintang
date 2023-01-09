@@ -27,14 +27,19 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Projects:
+### Landing Page:
 
-- Covid-19 Tracker Website: [Version1][covidtracker] | [Version2][covidtrackerv2]
 - Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
 - EasyBank Website | Landing Page(frontendmentor.io): [Link][easybank]
 - Huddle Website | Landing Page(frontendmentor.io): [Link][huddle]
 - Insure Website | Landing Page(frontendmentor.io): [Link][insure]
 - loopstudios Website | Landing Page(frontendmentor.io): [Link][loopstudios]
+
+### FullStack Projects (PHP/MySql)
+
+- OJT Record Management Syste: [Link][orm]
+- Event Management System: [Link][ems]
+- Attendance Monitoring Syste: [Link][ams]
 
 [website]: http://paulpintang.com
 
@@ -47,3 +52,7 @@
 [huddle]: https://hudddleee-landing-page.netlify.app/
 [insure]: https://festive-jennings-234480.netlify.app/
 [loopstudios]: https://friendly-joliot-d759bc.netlify.app/
+
+[rms]: https://github.com/jessiesantiano/ojt-rm-system
+[ams]: https://github.com/PaulPintang/ComLab-Attendance-Monitoring-System
+[ems]: https://github.com/PaulPintang/BUPC-Event-Management-System
