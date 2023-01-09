@@ -2,7 +2,7 @@
 
 - 🔭 Portfolio Website: [PaulPintang][website]
 - 🌱 I’m currently learning React.Js (target tech stack: MERN)
-- 🥅 2022 Goals: focus more, stay motivated, and just continue learning!
+- 🥅 2023 Goals: Learn more about technologies that i used!
 
 ### Connect with me:
 
