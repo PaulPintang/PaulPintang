@@ -39,7 +39,7 @@
 
 - OJT Record Management Syste: [Link][rms]
 - Event Management System: [Link][ems]
-- Attendance Monitoring Syste: [Link][ams]
+- Attendance Monitoring System: [Link][ams]
 
 [website]: http://paulpintang.com
 
