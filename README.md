@@ -19,12 +19,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mantine-3295E8?style=for-the-badge&logo=mantine&logoColor=61DAFB" alt="Mantine" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/netlify-36A9B4?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Tech Stack:
+
+<p>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 ### Landing Page:
@@ -52,7 +65,6 @@
 [huddle]: https://hudddleee-landing-page.netlify.app/
 [insure]: https://festive-jennings-234480.netlify.app/
 [loopstudios]: https://friendly-joliot-d759bc.netlify.app/
-
 [rms]: https://github.com/jessiesantiano/ojt-rm-system
 [ams]: https://github.com/PaulPintang/ComLab-Attendance-Monitoring-System
 [ems]: https://github.com/PaulPintang/BUPC-Event-Management-System
