@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mantine-3295E8?style=for-the-badge&logo=mantine&logoColor=61DAFB" alt="Mantine" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/netlify-36A9B4?style=for-the-badge&logo=netlify&logoColor=black" alt="netlify" />&nbsp;&nbsp;
@@ -34,9 +35,9 @@
 ### Tech Stack:
 
 <p>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
