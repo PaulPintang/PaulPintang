@@ -55,6 +55,12 @@
 - Event Management System: [Link][ems]
 - Attendance Monitoring System: [Link][ams]
 
+### FullStack Projects (MERN (MongoDB, Express, React, Node))
+
+- TraineeTasker: [View][tasker]
+- HRC-Ecommerce: [View][hrc]
+- Lingks(Bookmark): [View][lingks]
+
 [website]: http://paulpintang.com
 
 <!-- Projects -->
@@ -66,6 +72,15 @@
 [huddle]: https://hudddleee-landing-page.netlify.app/
 [insure]: https://festive-jennings-234480.netlify.app/
 [loopstudios]: https://friendly-joliot-d759bc.netlify.app/
+
+<!-- Fullstack PHP/MySql -->
+
 [rms]: https://github.com/jessiesantiano/ojt-rm-system
 [ams]: https://github.com/PaulPintang/ComLab-Attendance-Monitoring-System
 [ems]: https://github.com/PaulPintang/BUPC-Event-Management-System
+
+<!-- Fullstack MERN -->
+
+[tasker]: https://traineetasker.up.railway.app/
+[hrc]: https://hrc-store.vercel.app/
+[lingks]: https://lingks.vercel.app/
