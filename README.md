@@ -1,8 +1,10 @@
 ![Header](/banner-github.png)
 
-- 🔭 Portfolio Website: [PaulPintang][website]
-- 🌱 I’m currently learning React.Js (target tech stack: MERN)
-- 🥅 2023 Goals: Learn more about the technologies that i'm using
+- 🔭 Portfolio Website: [Paul Pintang][website]
+- 💻 Full-Stack Developer (Frontend & Backend)
+- 🛡️ Currently exploring Web Security and secure coding practices
+- 🌱 Working with React, Node.js, Express, Laravel, and Livewire
+- 🚀 Focused on building scalable and secure web applications
 
 ### Connect with me:
 
@@ -41,6 +43,11 @@
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
+<p>
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+</p>
+
 ### Landing Page:
 
 - Fylo Website | Landing Page(frontendmentor.io): [Link][fylo]
@@ -55,13 +62,14 @@
 - Event Management System: [Link][ems]
 - Attendance Monitoring System: [Link][ams]
 
-### FullStack Projects (MERN (MongoDB, Express, React, Node))
+### FullStack Projects ( Laravel, MERN Stack)
 
+- Hirestats(Job Application Tracker): [View][hirestats]
 - TraineeTasker: [View][tasker]
 - HRC-Ecommerce: [View][hrc]
 - Lingks(Bookmark): [View][lingks]
 
-[website]: http://paulpintang.com
+[website]: http://paulpintang.vercel.app
 
 <!-- Projects -->
 
@@ -81,6 +89,7 @@
 
 <!-- Fullstack MERN -->
 
-[tasker]: https://traineetasker.up.railway.app/
+[tasker]: https://github.com/PaulPintang/pixel8-traineetasker
 [hrc]: https://hrc-store.vercel.app/
 [lingks]: https://lingks.vercel.app/
+[hirestats]: https://hirestats.online/
